@@ -1,0 +1,246 @@
+SaYi_992 [time.struct_time(tm_year=2025, tm_mon=1, tm_mday=22, tm_hour=18, tm_min=55, tm_sec=21, tm_wday=2, tm_yday=22, tm_isdst=0)]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737543321.1719956 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [time.struct_time(tm_year=2025, tm_mon=1, tm_mday=22, tm_hour=18, tm_min=56, tm_sec=53, tm_wday=2, tm_yday=22, tm_isdst=0)]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737543413.9007754 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 18:58:36]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737543516.8465824 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:06:58]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 19:06:58]>>> SUCCESS: SaYi_992: NLP open in topic[SaYi_9928031]
+SaYi_992 [2025-01-22 19:06:58]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737544018.1575985 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:06:58]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928032]
+SaYi_992 [2025-01-22 19:06:58]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:06:58]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:07:42]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928032]
+SaYi_992 [2025-01-22 19:07:42]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:07:42]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737544062.916253 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:07:42]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:07:57]>>> INFO: YES
+SaYi_992 [2025-01-22 19:07:58]>>> SUCCESS: Natual
+SaYi_992 [2025-01-22 19:08:02]>>> INFO: £¨Ì§Í·£¬Î¢Ð¦£©Ö÷ÈË£¬ÏÂÎçºÃ¡£½ñÌìÓÐÊ²Ã´ÌØ±ðµÄÈÎÎñÐèÒªÎÒÐ­ÖúÂð£¿»¹ÊÇÄúÀ´¼ì²éÒ»ÏÂÍ¼Êé¹ÝµÄÕûÀí¹¤×÷£¿£¨ÉÔÇ·Éí£©ÎÒÕâ±ßÒÑ¾­Íê³ÉÁË´ó²¿·ÖÊé¼®µÄ¹éµµ£¬Èç¹ûÄúÓÐÊ±¼ä£¬ÎÒ¿ÉÒÔÎªÄú×¼±¸Ò»±­²è¡£
+SaYi_992 [2025-01-22 19:10:47]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 19:10:47]>>> SUCCESS: SaYi_992: NLP open in topic[SaYi_9928031]
+et(access_list) 1737544247.0431442 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:10:47]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:10:47]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:10:54]>>> INFO: YES
+SaYi_992 [2025-01-22 19:10:56]>>> SUCCESS: Natual
+SaYi_992 [2025-01-22 19:11:00]>>> OUTPUT: £¨Ì§ÆðÍ·£¬¿´µ½Ö÷ÈË£¬Î¢Ð¦×ÅÇ·Éí£©Ö÷ÈË£¬ÏÂÎçºÃ¡£½ñÌìµÄ¹¤×÷ÒÑ¾­°´¼Æ»®½øÐÐ£¬Í¼Êé¹ÝµÄÕûÀí¹¤×÷Ò²Íê³ÉÁË´ó²¿·Ö¡£ÐèÒªÎÒÎªÄú×¼±¸Ð©Ê²Ã´Âð£¿
+SaYi_992 [2025-01-22 19:11:07]>>> INFO: YES
+SaYi_992 [2025-01-22 19:11:09]>>> SUCCESS: Natual
+SaYi_992 [2025-01-22 19:11:12]>>> OUTPUT: £¨ÇáÇáÒ»Ð¦£¬ÑÛÉñÎÂÈá£©Ö÷ÈË½ñÌìÐÄÇéËÆºõ²»´íÄØ¡£ÓÐÊ²Ã´ÌØ±ðµÄÊÂÇé·¢ÉúÂð£¿ÐèÒªÎÒÎªÄú°²ÅÅÒ»Ð©ÌØ±ðµÄÏÂÎç²èÂð£¿
+SaYi_992 [2025-01-22 19:11:22]>>> INFO: YES
+SaYi_992 [2025-01-22 19:11:23]>>> SUCCESS: Natual
+SaYi_992 [2025-01-22 19:11:26]>>> OUTPUT: £¨Ñ¸ËÙ²é¿´Ê±¼ä£¬¼ò½à»Ø´ð£©Ö÷ÈË£¬ÏÖÔÚÊÇÏÂÎç3µã15·Ö¡£ÐèÒªÎÒÎªÄú°²ÅÅ½ÓÏÂÀ´µÄÈÕ³ÌÂð£¿
+SaYi_992 [2025-01-22 19:11:37]>>> INFO: NO
+SaYi_992 [2025-01-22 19:17:08]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 19:17:08]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928032]
+SaYi_992 [2025-01-22 19:17:08]>>> SEND: send to 127.0.0.18040 :SaYi_992 tips SaYi_SV get(access_list) 1737544628.825192 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:17:08]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:24:38]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 19:24:38]>>> SUCCESS: SaYi_992: NLP open in topic[SaYi_9928031]
+SaYi_992 [2025-01-22 19:24:38]>>> SEND: send to SaYi_SV8040 :SaYi_992 tips SaYi_SV get(access_list) 1737545078.2881494 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 19:24:38]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928032]
+SaYi_992 [2025-01-22 19:24:38]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:25:37]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928040]
+SaYi_992 [2025-01-22 19:25:37]>>> SUCCESS: SaYi_992: NLP open in topic[SaYi_9928041]
+SaYi_992 [2025-01-22 19:25:37]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:25:37]>>> SEND: send to topic[SaYi_SV8040] :SaYi_992 tips SaYi_SV get(access_list) 1737545137.6587427 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_992 [2025-01-22 19:25:37]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928042]
+SaYi_992 [2025-01-22 19:25:37]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:26:13]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:26:13]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+i_SV8041]
+i_SV get(access_list) 1737545173.2530963 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:26:13]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:26:42]>>> INFO: YES
+SaYi_SV [2025-01-22 19:26:44]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:26:48]>>> OUTPUT: £¨ÉÔ×÷Ë¼¿¼£¬µãÍ·£©ºÃµÄ£¬Ö÷ÈË¡£ÎÒÕâ¾ÍÈ¥ÖÓÊéÇøÓò²é¿´¡££¨×ªÉí£¬¿ªÊ¼ÕûÀíÊÖÖÐµÄÊé¼®£©ÐèÒªÎÒÎªÄú×¼±¸Ê²Ã´ÌØ±ðµÄ×ÊÁÏÂð£¿
+SaYi_SV [2025-01-22 19:27:00]>>> INFO: YES
+SaYi_SV [2025-01-22 19:27:09]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:27:09]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:27:09]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737545229.8406265 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:27:09]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:27:09]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:28:50]>>> SUCCESS: SaYi_SV: TSK open in topic[SaYi_SV8042]
+SaYi_SV [2025-01-22 19:28:50]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:28:50]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:28:50]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:28:52]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:28:52]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737545332.4093475 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:28:52]>>> ERROR: SaYi_SV Not Found
+SaYi_SV [2025-01-22 19:30:05]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:30:05]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:30:05]>>> SUCCESS: SaYi_SV: TSK open in topic[SaYi_SV8042]
+SaYi_SV [2025-01-22 19:30:05]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:30:05]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:30:07]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:30:07]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737545407.3857367 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:30:07]>>> ERROR: SaYi_SV Not Found
+SaYi_SV [2025-01-22 19:30:53]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:30:53]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+i_SV8041]
+SaYi_SV [2025-01-22 19:30:53]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:30:55]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:30:55]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737545455.9613743 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:30:55]>>> ERROR: SaYi_SV Not Found£ºcan only concatenate str (not "int") to str
+SaYi_SV [2025-01-22 19:31:23]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:31:23]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:31:23]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:31:23]>>> SUCCESS: SaYi_SV: TSK open in topic[SaYi_SV8042]
+SaYi_SV [2025-01-22 19:31:23]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:31:25]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:31:25]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737545485.3598711 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:31:25]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737545485.3598711 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:31:26]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737545485.3598711 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:31:26]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737545486.6558285 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:31:27]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737545486.6558285 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:31:28]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737545486.6558285 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:31:30]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:31:51]>>> INFO: YES
+SaYi_SV [2025-01-22 19:31:52]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:31:56]>>> OUTPUT: £¨Ì§Í·£¬¹ØÇÐµØ£©Ö÷ÈË£¬Äú¿´ÆðÀ´ÓÐÐ©Æ£±¹¡£ÐèÒªÎÒÎªÄú×¼±¸Ð©Ê²Ã´Âð£¿»òÕßÄúÏëÐÝÏ¢Ò»ÏÂ£¿£¨ÇáÉù£©ÎÒ¿ÉÒÔÎªÄú°²ÅÅÒ»¸ö°²¾²µÄµØ·½¡£
+SaYi_SV [2025-01-22 19:32:04]>>> INFO: NO
+SaYi_SV [2025-01-22 19:32:12]>>> INFO: NO
+SaYi_SV [2025-01-22 19:32:25]>>> INFO: NO
+SaYi_SV [2025-01-22 19:32:34]>>> INFO: YES
+SaYi_SV [2025-01-22 19:32:35]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:32:39]>>> OUTPUT: £¨Á¢¼´·ÅÏÂÊÖÖÐµÄ¹¤×÷£¬¿ì²½×ßµ½Ö÷ÈËÉí±ß£©Ö÷ÈË£¬ÄúÐèÒªÐÝÏ¢¡£ÎÒÂíÉÏÎªÄú×¼±¸Ò»±­ÈÈ²èºÍÊæÊÊµÄÐÝÏ¢Çø¡££¨Çá·öÖ÷ÈË£©Çë¸úÎÒÀ´£¬Õâ±ßÇë¡£
+SaYi_SV [2025-01-22 19:33:06]>>> INFO: YES
+SaYi_SV [2025-01-22 19:33:07]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:33:11]>>> OUTPUT: £¨ËÉÁËÒ»¿ÚÆø£¬Î¢Ð¦£©ÄÇ¾ÍºÃ£¬Ö÷ÈË¡£Èç¹ûÄúÐèÒªÈÎºÎ°ïÖú£¬ÇëËæÊ±¸æËßÎÒ¡££¨ÉÔ×÷Í£¶Ù£©ÎÒ»áÒ»Ö±ÔÚÄúÉí±ß¡£
+SaYi_SV [2025-01-22 19:33:31]>>> INFO: NO
+SaYi_SV [2025-01-22 19:33:47]>>> INFO: NO
+SaYi_SV [2025-01-22 19:34:01]>>> INFO: YES
+SaYi_SV [2025-01-22 19:34:02]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:34:06]>>> OUTPUT: £¨ÇáÇáµãÍ·£¬µ÷Õû×ËÌ¬£©µ±È»£¬Ö÷ÈË¡£ÄúÏëÁÄÐ©Ê²Ã´ÄØ£¿×î½üÍ¼Êé¹ÝÀïÐÂ½øÁËÒ»Ð©ÓÐÈ¤µÄÊé¼®£¬»òÕßÄúÏëÌýÌý×î½üµÄ¹¤×÷½øÕ¹£¿£¨±£³ÖÓÅÑÅµÄ×ËÌ¬£¬×¼±¸ñöÌý£©
+SaYi_SV [2025-01-22 19:34:36]>>> INFO: NO
+SaYi_SV [2025-01-22 19:34:58]>>> INFO: NO
+SaYi_SV [2025-01-22 19:35:22]>>> INFO: YES
+SaYi_SV [2025-01-22 19:35:23]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:35:27]>>> OUTPUT: £¨Î¢Ð¦£¬ÑÛÖÐÉÁ¹ýÒ»Ë¿ÐÀÎ¿£©Ìýµ½ÄúÕâÃ´Ëµ£¬ÎÒÒ²¸Ðµ½·Ç³£¸ßÐË£¬Ö÷ÈË¡££¨ÉÔ×÷Í£¶Ù£¬ÓïÆøÎÂÈá£©ÄúµÄ¿ìÀÖ¾ÍÊÇ¶ÔÎÒÃÇ×î´óµÄ¿Ï¶¨¡£Èç¹ûÄúÐèÒªÈÎºÎ°ïÖú£¬ÎÒËæÊ±¶¼ÔÚ¡£
+SaYi_SV [2025-01-22 19:35:35]>>> INFO: YES
+SaYi_SV [2025-01-22 19:35:36]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:35:37]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,¿ªÆô¼à¿Ø) 1737545737.3693163 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:35:37]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737545737.9809124 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:35:38]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737545737.9809124 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:35:39]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737545737.9809124 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:35:41]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:39:17]>>> INFO: NO
+SaYi_SV [2025-01-22 19:42:00]>>> INFO: NO
+SaYi_SV [2025-01-22 19:42:10]>>> INFO: NO
+SaYi_SV [2025-01-22 19:42:18]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:42:18]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+i_SV8042]
+SaYi_SV [2025-01-22 19:42:18]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:42:20]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:42:20]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737546140.2482357 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:42:20]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737546140.2482357 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:21]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737546140.2482357 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:21]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546141.5138433 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:42:22]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546141.5138433 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:23]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546141.5138433 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:25]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:42:34]>>> INFO: YES
+SaYi_SV [2025-01-22 19:42:35]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:42:37]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,´ò¿ª¼à¿Ø) 1737546156.7102048 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:37]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546157.2852566 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:42:37]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546157.2852566 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:39]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546157.2852566 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:42:40]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:43:42]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:43:42]>>> SUCCESS: SaYi_SV: TSK open in topic[SaYi_SV8042]
+SaYi_SV [2025-01-22 19:43:42]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:43:44]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:43:44]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737546224.9858537 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:43:45]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737546224.9858537 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:46]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737546224.9858537 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:46]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546226.2323062 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:43:46]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546226.2323062 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:47]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546226.2323062 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:48]>>> INFO: YES
+SaYi_SV [2025-01-22 19:43:49]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:43:50]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:43:52]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,´ò¿ª¼à¿Ø) 1737546231.5124705 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:52]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546232.2556129 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:43:52]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546232.2556129 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:53]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546232.2556129 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:43:55]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:44:29]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:44:29]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:44:29]>>> SUCCESS: SaYi_SV: TSK open in topic[SaYi_SV8042]
+SaYi_SV [2025-01-22 19:44:29]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:44:29]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:44:31]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:44:31]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737546271.9330728 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:44:31]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737546271.9330728 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:33]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737546271.9330728 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:33]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546273.1788888 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:44:33]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546273.1788888 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:34]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546273.1788888 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:36]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:44:37]>>> INFO: YES
+SaYi_SV [2025-01-22 19:44:38]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:44:40]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,´ò¿ª¼à¿Ø) 1737546279.8053486 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:40]>>> ERROR: [!]From TLL:not enough values to unpack (expected 2, got 1)
+SaYi_SV [2025-01-22 19:44:40]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 407(Unknown_problem) 1737546280.4579804 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:44:40]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 407(Unknown_problem) 1737546280.4579804 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:42]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 407(Unknown_problem) 1737546280.4579804 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:44:43]>>> OUTPUT: SaYi_SV Ëµ Unknown_problem
+SaYi_SV [2025-01-22 19:45:27]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:45:27]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:45:27]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:45:27]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:45:29]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:45:29]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737546329.461899 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:45:29]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737546329.461899 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:30]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737546329.461899 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:30]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546330.9109387 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:45:31]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546330.9109387 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:32]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546330.9109387 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:34]>>> INFO: NO
+SaYi_SV [2025-01-22 19:45:35]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:45:43]>>> INFO: YES
+SaYi_SV [2025-01-22 19:45:44]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:45:46]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,´ò¿ª¼à¿Ø) 1737546345.8739173 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:46]>>> SEND: send to topic[Skaye_8008060] :SaYi_SV tips Skaye_800 dec_(´ò¿ª¼à¿Ø) 1737546346.485345 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:45:46]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 201(None) 1737546346.9879181 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:45:47]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 201(None) 1737546346.9879181 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:49]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 201(None) 1737546346.9879181 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:45:50]>>> OUTPUT: SaYi_SV Ëµ None
+SaYi_SV [2025-01-22 19:47:41]>>> SUCCESS: SaYi_SV: TLL open in topic[SaYi_SV8040]
+SaYi_SV [2025-01-22 19:47:41]>>> SUCCESS: SaYi_SV: NLP open in topic[SaYi_SV8041]
+SaYi_SV [2025-01-22 19:47:41]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_SV [2025-01-22 19:47:43]>>> INFO: Connecting To SaYi_SV...
+SaYi_SV [2025-01-22 19:47:43]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV tips SaYi_SV get(access_list) 1737546463.2080915 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:47:43]>>> RECEIVE: [0;32;40m >>>from SaYi_SV tips SaYi_SV get(access_list) 1737546463.2080915 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:47:44]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV get(access_list) 1737546463.2080915 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:47:44]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 404(No_function) 1737546464.5220525 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:47:45]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 404(No_function) 1737546464.5220525 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:47:46]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 404(No_function) 1737546464.5220525 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:47:48]>>> OUTPUT: SaYi_SV Ëµ No_function
+SaYi_SV [2025-01-22 19:47:56]>>> INFO: NO
+SaYi_SV [2025-01-22 19:48:01]>>> INFO: YES
+SaYi_SV [2025-01-22 19:48:03]>>> SUCCESS: TLL
+SaYi_SV [2025-01-22 19:48:05]>>> RECEIVE: [0;32;40m >>>process SaYi_SV tips SaYi_SV send(Skaye_800,´ò¿ª¼à¿Ø) 1737546484.547692 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:48:05]>>> WARNING: send·½·¨Ã»ÓÐÉè¶¨È¨ÏÞ±í£¬Ìø¹ýÈ¨ÏÞÈÏÖ¤¡£ ½¨ÒéÉè¶¨permission_listÈ¨ÏÞ
+SaYi_SV [2025-01-22 19:48:05]>>> SEND: send to topic[Skaye_8008060] :SaYi_SV tips Skaye_800 dec_(´ò¿ª¼à¿Ø) 1737546485.1594746 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:48:05]>>> SEND: send to topic[SaYi_SV8040] :SaYi_SV cons SaYi_SV 201(None) 1737546485.6615477 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+
+SaYi_SV [2025-01-22 19:48:06]>>> RECEIVE: [0;32;40m >>>from SaYi_SV cons SaYi_SV 201(None) 1737546485.6615477 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:48:07]>>> RECEIVE: [0;32;40m >>>process SaYi_SV cons SaYi_SV 201(None) 1737546485.6615477 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8040+[0m
+SaYi_SV [2025-01-22 19:48:08]>>> OUTPUT: SaYi_SV Ëµ None
+SaYi_SV [2025-01-22 19:48:32]>>> INFO: NO
+SaYi_SV [2025-01-22 19:50:10]>>> INFO: YES
+SaYi_SV [2025-01-22 19:50:11]>>> SUCCESS: Natual
+SaYi_SV [2025-01-22 19:50:15]>>> OUTPUT: £¨Ìýµ½Ö÷ÈËµÄ¿ä½±£¬Î¢Î¢Ç·Éí£¬Á³ÉÏÂ¶³öµ­µ­µÄÎ¢Ð¦£©Ö÷ÈË¹ý½±ÁË¡£ÎÒÖ»ÊÇ¾¡ÎÒËùÄÜ£¬ÎªÄúºÍÍ¼Êé¹Ý·þÎñ¡££¨ÕûÀíÁËÒ»ÏÂÊÖ±ßµÄÎÄ¼þ£©Èç¹ûÄúÓÐÈÎºÎÐèÒª£¬ÎÒËæÊ±´ýÃü¡£
+SaYi_992 [2025-01-22 19:52:26]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 19:52:26]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+Yi_9928032]
+SaYi_992 [2025-01-22 19:52:26]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 19:52:28]>>> INFO: Connecting To SaYi_SV...
+SaYi_992 [2025-01-22 19:52:28]>>> SEND: send to topic[SaYi_SV8040] :SaYi_992 tips SaYi_SV get(access_list) 1737546748.3446808 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 20:33:55]>>> SUCCESS: SaYi_992: TLL open in topic[SaYi_9928030]
+SaYi_992 [2025-01-22 20:33:55]>>> SUCCESS: SaYi_992: TSK open in topic[SaYi_9928032]
+SaYi_992 [2025-01-22 20:33:55]>>> INFO: [0;32m[->] TSKÆôÓÃÂ¼Òô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 20:33:55]>>> INFO: [0;32m[->] TSKÆôÓÃÓïÒô¹¦ÄÜ[0m
+SaYi_992 [2025-01-22 20:33:57]>>> INFO: Connecting To SaYi_SV...
+SaYi_992 [2025-01-22 20:33:57]>>> SEND: send to topic[SaYi_SV8040] :SaYi_992 tips SaYi_SV get(access_list) 1737549237.9226177 zebbb810.ala.dedicated.aliyun.emqxcloud.cn+8030+
+SaYi_992 [2025-01-22 20:34:04]>>> INFO: YES
+SaYi_992 [2025-01-22 20:34:05]>>> SUCCESS: Natual
+SaYi_992 [2025-01-22 20:34:08]>>> OUTPUT: £¨Ì§Í·£¬Ç³Ð¦£¬ÉÔÉÔÇ·Éí£©Ö÷ÈËÏÂÎçºÃ¡£ÓÐÊ²Ã´ÐèÒªÎÒÎªÄú×¼±¸µÄÂð£¿
